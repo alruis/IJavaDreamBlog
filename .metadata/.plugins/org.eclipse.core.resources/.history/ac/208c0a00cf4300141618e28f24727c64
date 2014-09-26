@@ -1,0 +1,7 @@
+package dao;
+
+import model.Entrada;
+
+public interface IComentarioDao extends IDao<Entrada, Integer> {
+	
+}

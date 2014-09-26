@@ -1,0 +1,46 @@
+package service;
+
+//import java.util.List;
+
+//import javax.persistence.Query;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.transaction.annotation.Transactional;
+
+import dao.IEntradasDao;
+import exception.AppDaoException;
+import exception.AppServiceException;
+import model.Entrada;
+
+
+@Transactional // Le dice a Spring que gestione las transacciones 
+public class EntradaService implements IEntradaService {
+	@Autowired
+	private IEntradasDao entradasDao;
+
+	@Override
+	public void agregarEntrada(Entrada ent) {
+		
+		
+		try {
+			
+				entradasDao.agregar(ent);
+			
+		} catch (AppDaoException e) {
+			throw new AppServiceException(e);
+		}
+	}
+
+	@Override
+	public List<Entrada> obtenerEntradas() {
+		try {
+			return entradasDao.obtenerTodos();
+		} catch (AppDaoException e) {
+			throw new AppServiceException(e);
+		}
+	}
+
+
+}

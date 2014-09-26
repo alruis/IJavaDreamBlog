@@ -1,0 +1,16 @@
+package service;
+
+import java.util.List;
+
+import model.Comentario;
+import model.Entrada;
+
+public interface IEntradaService {
+	public void agregarEntrada(Entrada e);
+	public List<Entrada> obtenerEntradas();
+	public Entrada obtenerEntrada(Integer idEntrada);
+	public void eliminarEntrada(Integer idEntrada);
+	public List<Comentario> obtenerComentarios(Integer idEntrada);
+	public void modificarEntrada(Entrada ent);
+	
+}

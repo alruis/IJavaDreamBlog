@@ -1,0 +1,67 @@
+h1 {
+	text-align: left;
+}
+
+#body {
+	clear: both;
+}
+
+#registrarUsuario {
+	text-align: right;
+}
+
+
+td.entradas{
+	text-align: left;	
+	}
+	
+	
+	div.cabecera{
+	 background-color:black;
+	 background-image: url("img/FondoCabecera.png");
+    color:white;
+    text-align:center;
+    padding:5px;
+	}
+	
+	div.cuerpo{
+  
+	}
+	
+	div.enlaces{
+ 	line-height:30px;
+    background-color:#eeeeee;
+    height:300px;
+    width:20%;
+    float:left;
+    padding:5px;	
+	
+	}
+	div.entradas{
+	width:60%;
+    float:left;
+    padding:10px;
+
+	}
+	
+	div.navegacion{
+	 line-height:20%;
+    background-color:#eeeeee;
+    height:300px;
+    width:100px;
+    float:left;
+    padding:5px;	
+	}
+	
+	
+	
+	
+	div.pie{
+	 background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+   padding:5px;	 
+	
+	}
+	

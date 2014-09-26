@@ -1,0 +1,8 @@
+package service;
+
+import model.Comentario;
+
+public interface IComentarioService {
+	public void agregarComentario(Comentario c);
+	
+}

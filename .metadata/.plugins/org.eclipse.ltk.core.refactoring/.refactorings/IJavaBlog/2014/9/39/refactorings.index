@@ -1,0 +1,42 @@
+1411395455158	Rename field 'id'
+1411395969030	Delete element
+1411395973554	Delete element
+1411395975349	Delete element
+1411395977153	Delete element
+1411395982633	Delete element
+1411396115404	Move 1 resources to 'WebContent'
+1411396724017	Delete element
+1411397189436	Delete element
+1411397195161	Delete element
+1411397335943	Delete element
+1411398384791	Delete element
+1411398789424	Copy compilation unit
+1411398838649	Copy compilation unit
+1411398990144	Copy compilation unit
+1411399039082	Copy compilation unit
+1411399113176	Rename local variable 'u'
+1411458639036	Rename type 'EntradasDao'
+1411458682342	Rename type 'IEntradasDao'
+1411467602688	Encapsulate field 'idRol'
+1411470508881	Copy compilation unit
+1411470904124	Rename local variable 'usuarioForm'
+1411470993193	Rename local variable 'clave'
+1411471492007	Rename local variable 'u'
+1411485079739	Rename local variable 'personaForm'
+1411485279256	Rename field 'entradasService'
+1411485556977	Rename field 'entradasDao'
+1411485673822	Encapsulate field 'idEntrada'
+1411485709054	Rename local variable 'p'
+1411486302111	Rename local variable 'p'
+1411551223733	Copy file
+1411551672271	Copy compilation unit
+1411551689720	Copy compilation unit
+1411553136403	Copy compilation unit
+1411554933544	Rename field 'identrada'
+1411566101914	Copy compilation unit
+1411566118756	Copy compilation unit
+1411632482311	Copy file
+1411642361457	Rename local variable 'entradaForm'
+1411642406925	Rename local variable 'ent'
+1411731376733	Copy file
+1411731385420	Copy file

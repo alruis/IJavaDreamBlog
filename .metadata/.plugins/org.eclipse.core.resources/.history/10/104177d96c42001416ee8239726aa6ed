@@ -1,0 +1,8 @@
+package service;
+
+import model.Entrada;
+
+public interface IEntradaService {
+	public void agregarEntrada(Entrada e);
+	
+}

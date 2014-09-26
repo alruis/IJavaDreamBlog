@@ -1,0 +1,36 @@
+package form;
+
+import java.util.Date;
+
+public class ComentarioForm {
+	private Integer idEntrada;
+	private String cabeceraEntrada;
+	private String entrada;
+	private Date fechaCreacion;
+	public String getCabeceraEntrada() {
+		return cabeceraEntrada;
+	}
+	public void setCabeceraEntrada(String cabeceraEntrada) {
+		this.cabeceraEntrada = cabeceraEntrada;
+	}
+	public String getEntrada() {
+		return entrada;
+	}
+	public void setEntrada(String entrada) {
+		this.entrada = entrada;
+	}
+	public Date getFechaCreacion() {
+		return fechaCreacion;
+	}
+	public void setFechaCreacion(Date fechaCreacion) {
+		this.fechaCreacion = fechaCreacion;
+	}
+	public Integer getIdEntrada() {
+		return idEntrada;
+	}
+	public void setIdEntrada(Integer idEntrada) {
+		this.idEntrada = idEntrada;
+	}
+	
+	
+}

@@ -1,0 +1,15 @@
+package dao;
+
+import java.util.List;
+
+import javax.persistence.Query;
+
+import model.Usuario;
+
+public class EntradasDao 
+		extends GenericDao<Entrada, Integer> 
+		implements IEntradasDao {
+
+	
+
+}

@@ -1,0 +1,5 @@
+INDEX VERSION 1.126
+C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3713765173.index
+\IJavaBlog\src
+C:\GD\CURSO JAVA MADRID\Proyecto Blog\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3713765173.index
+\IJavaBlog\src

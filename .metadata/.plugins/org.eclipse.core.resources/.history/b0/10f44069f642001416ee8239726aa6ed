@@ -1,0 +1,7 @@
+package dao;
+
+import model.Entrada;
+
+public interface IEntradasDao extends IDao<Entrada, Integer> {
+	
+}

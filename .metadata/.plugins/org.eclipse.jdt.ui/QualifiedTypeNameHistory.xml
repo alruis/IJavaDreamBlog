@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="dao.IEntradasDao"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="model.Entrada"/>
+<fullyQualifiedTypeName name="service.EntradaService"/>
+<fullyQualifiedTypeName name="service.IEntradaService"/>
+<fullyQualifiedTypeName name="dao.EntradaDao"/>
+<fullyQualifiedTypeName name="form.EntradaForm"/>
+<fullyQualifiedTypeName name="model.Comentario"/>
+<fullyQualifiedTypeName name="javax.persistence.Transient"/>
+<fullyQualifiedTypeName name="dao.IEntradaDao"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+<fullyQualifiedTypeName name="dao.IComentarioDao"/>
+<fullyQualifiedTypeName name="dao.ComentarioDao"/>
+<fullyQualifiedTypeName name="form.ComentarioForm"/>
+<fullyQualifiedTypeName name="service.IComentarioService"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestParam"/>
+<fullyQualifiedTypeName name="service.ComentarioService"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+</qualifiedTypeNameHistroy>

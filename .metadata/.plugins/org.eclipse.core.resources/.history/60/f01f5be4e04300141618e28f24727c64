@@ -1,0 +1,197 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+ <%@page import="model.Entrada"%>
+ <%@page import="java.util.List"%>
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
+<%@ taglib prefix="form" uri="http://www.springframework.org/tags/form" %>
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>IJavaBlog</title>
+	<!-- <link href="css/comun.css" rel="stylesheet" type="text/css" />  -->
+	
+	<style type="text/css">
+	
+	td.entradas{
+	text-align: left;	
+	}
+	
+	div.enlaces{
+	text-align: left;	
+	background-color: gray;
+	width: 20%;
+	height: 400px;
+	overflow:auto;
+	float:left;
+	}
+	div.articulos{
+	text-align: left;	
+	background-color: white;
+	width: 80%;
+	height: 400px;
+	overflow:auto;
+	float:left;
+	}
+	
+	div.cuerpo{
+	text-align: left;	
+	background-color: white;
+	height: 100%;
+	overflow:visible;
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+	}
+	
+	
+	div.cabecera{
+	text-align: left;	
+	background-color: blue;
+	color:white;
+	width: 100%;
+	height: 100%;
+	float:left;
+	}
+	
+	div.pie{
+	text-align: left;	
+	background-color: white;
+	width: 100%;
+	height: 100%;
+	float:left;
+	}
+	
+	
+	
+	</style>
+	
+	<script>
+	
+	
+	var activarComentario=function(nombreCapa){
+		
+		if(document.getElementById(nombreCapa).hidden="true"){
+			document.getElementById(nombreCapa).hidden="false";
+		}else{
+			document.getElementById(nombreCapa).hidden="true";
+		}
+	}
+	
+	function mostrar(capa){ 
+		var obj = document.getElementById(capa) ;
+		if(obj.style.visibility== "hidden")	{
+			obj.style.visibility= "visible";
+			} else {obj.style.visibility= "hidden";}
+	}
+	
+	
+	
+	
+	
+	
+	</script>
+</head>
+<body>
+
+<div id="cabecera" class="cabecera"><%@ include file="cabecera.jsp" %></div>
+	
+	
+		<div id="registrarUsuario">
+			<a href="registrarUsuario.blog">Regístrate</a>
+		</div>
+	</div>
+<div id="cuerpo" class="cuerpo"  >
+		<div id="errores">
+			<c:forEach var="e" items="${errores}">
+				${e}<br/>
+			</c:forEach>
+		</div>
+		
+				
+		<div id="articulos" class="articulos" >
+		<table id="tablaEntradas" border="0">
+		
+
+		<tbody id="tbodyEntradas" >
+		<%
+			// Obteniendo personas que son enviadas desde el Controlador
+			List<Entrada> entradas = (List<Entrada>)
+			request.getAttribute("entradas");
+		
+			if (entradas != null) {
+				int num = 1;
+				for (Entrada ent : entradas) {
+		%>
+					<tr>
+						
+						<td><%= ent.getIdEntrada() %></td>
+						<td><%= ent.getCabeceraEntrada() %></td>
+						<td>Creada por el usuario: <%= ent.getIdusuario() %></td>
+						
+					</tr>
+					<tr ><td  colspan="3"><hr></td></tr>
+					<tr>
+					<td class="entradas" colspan="3"><%= ent.getEntrada() %>  </td>
+					
+					</tr>
+					<tr>
+						
+						<td><%= ent.getFechacreacion() %></td>
+						<td><a href="comentarios.blog?idEntrada=<%= ent.getIdEntrada() %>" >Comentarios: <%= ent.getnComentarios() %></a> <input type="button" value="Añadir comentario" onclick="mostrar('nuevoComentario_<%= ent.getIdEntrada() %>')"/>	 </td>
+						<td>Tags</td>
+						
+					</tr>
+					<tr ><td  colspan="3">
+					<div id="nuevoComentario_<%= ent.getIdEntrada() %>" hidden="true">
+						       
+						       
+						         <form:form action="agregarComentario.blog?idEntrada=<%= ent.getIdEntrada() %>" commandName="comentarioForm" method="post">
+									<table>
+									<tr>
+								
+										<tr>
+											<td>Comentario:</td>
+											<td><form:textarea rows="300" cols="50" path="comentario"/> </td> 
+										</tr>		
+										
+										<tr>
+											<td colspan="2">
+												<input type="submit" value="Añadir comentario"/>	
+														
+											</td>
+										</tr>		
+									</table>	
+								</form:form>
+					
+					</div>
+					</br></br></td></tr>
+					<tr ><td  colspan="3"></br></br></td></tr>
+		<%
+				}
+			}
+		%>
+		</tbody>
+	</table>
+			
+			
+			
+			
+		</div>
+		<div  id="enlaces" class="enlaces">
+<h1>About me</h1>
+Hola chavales ....
+
+<a href="administrar.blog"> Administrar</a>
+</div>
+	<div  id="pie" class="pie">
+	
+		<br/>
+		<hr/>
+
+	<%@ include file="pie.jsp" %>
+		</div>
+</div>
+</body>
+</html>

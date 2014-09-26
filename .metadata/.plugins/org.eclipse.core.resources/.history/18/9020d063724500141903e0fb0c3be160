@@ -1,0 +1,157 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+     <%@page import="model.Entrada"%>
+     <%@page import="model.Comentario"%>
+ <%@page import="java.util.List"%>
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
+<%@ taglib prefix="form" uri="http://www.springframework.org/tags/form" %>
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>IJavaBlog</title>
+	<!-- <link href="css/comun.css" rel="stylesheet" type="text/css" />  -->
+	<!-- <link href="css/bootstrap.css" rel="stylesheet" type="text/css" />   -->
+	<link href="css/ijavablog.css" rel="stylesheet" type="text/css" />
+	<script type="text/javascript" src="/IJavaBlog/js/util.js"></script>
+	
+	<script type="text/javascript">
+	
+	function ocultarCapas(){ 
+		var str = "";
+	    var patron = "comentario";
+		var objs = document.getElementsByTagName("div");
+		
+		for(var i=0;i<objs.length;i++){
+			if(objs[i].id  != "undefined"){
+				str=objs[i].id;
+				if(str.indexOf(patron) > -1){
+				 objs[i].style.display = "none";
+				}
+			}
+		}
+		
+	}
+
+	
+	</script>
+	
+		
+</head>
+<body >
+	
+
+	
+<div id="cabecera" class="cabecera"><%@ include file="cabecera.jsp" %></div>
+<div id="navegacion" class="navegacion"><%@ include file="navegacion.jsp" %></div>
+	
+<div id="errores">
+	<c:forEach var="e" items="${errores}">
+		${e}<br/>
+	</c:forEach>
+</div>	
+	
+<div id="body" class="entradas" >
+	
+	
+	<%
+	Entrada ent= (Entrada) request.getAttribute("entrada");
+	 %>
+		<table id="entrada">
+		<tr>
+				<td>ID:</td>
+				<td><%=ent.getIdEntrada() %></td> 
+			</tr>	
+			<tr>
+				<td>Cabecera:</td>
+				<td><%=ent.getCabeceraEntrada() %> </td> 
+			</tr>		
+			<tr>
+				<td>Entrada:</td>
+				<td><%=ent.getEntrada() %> </td> 
+			</tr>		
+				
+			<tr>
+				<td>Fecha de creación:</td>
+				<td><%=ent.getFechacreacion() %> </td> 
+			</tr>		
+			<tr>
+				<td colspan="2">
+				</td>
+			</tr>		
+		</table>	
+		<table id="tablaComentariosEntrada" border="1">
+			<tbody id="tbodyComentariosEntrada" >
+			<thead>
+			<tr><td>Id comentario</td>
+			<td>Comentario</td>
+			<td>Usuario</td>
+			<td>Fecha de Creación</td>
+			<td>Mostrar</td>
+			<td>Eliminar</td>
+			</thead>
+			<%
+				// Obteniendo los comentarios que son enviados desde el Controlador
+				List<Comentario> comentarios= (List<Comentario>)
+				request.getAttribute("comentarios");
+			
+				if (comentarios != null) {
+					for (Comentario c: comentarios) {
+			%>
+			
+						<tr>
+							
+							<td><%= c.getIdcomentario() %></td>
+							<td><%= c.getComentario() %></td>
+							<td><%= c.getIdusuario() %></td>
+							<td><%= c.getFechacreacion() %></td>
+							<td><input type="button" onclick="ocultarCapas();mostrar('comentario_<%= c.getIdcomentario() %>')" value="Editar"/> </td>
+							<td><a href="eliminarComentario.blog?idComentario=<%= c.getIdcomentario() %>&idEntrada=<%=ent.getIdEntrada() %>" 
+									onclick="return confirmar()" >Eliminar	</a>
+							</td>
+							
+						</tr>
+						<%
+					}
+					for (Comentario c: comentarios) {
+			%>					
+			
+			</tbody>
+		</table>
+		
+		
+		<div id="comentario_<%= c.getIdcomentario() %>" style="display: none;">
+			<form:form action="actualizarComentario.blog" commandName="comentarioForm" method="post">			       
+				   	<table>
+						<tr>
+							<td>
+							<input type="hidden" name="idEntrada" id="idEntrada" value="<%= ent.getIdEntrada() %>" />
+							<form:input name="idComentario" path="idComentario" value="<%= c.getIdcomentario() %>" /></td> 
+						</tr>	
+						<tr>
+							<td><form:input name="idusuario" path="idusuario" value="<%= c.getIdusuario() %>" /></td> 
+						</tr>
+						<tr>
+							<td>
+								<textarea name="comentario" id="comentario" cols="100"><%= c.getComentario() %></textarea>
+							</td> 
+						</tr>		
+						<tr>
+							<td >
+								<input type="submit" value="Publicar"/>	
+							</td>
+						</tr>		
+					</table>	
+			</form:form>		
+		</div>
+	<%
+				}
+			}
+		%>
+</div>	
+		
+<div  id="enlaces" class="enlaces"><%@ include file="enlaces.jsp" %></div>
+<div  id="pie" class="pie">	<%@ include file="pie.jsp" %></div>
+	
+</body>
+</html>

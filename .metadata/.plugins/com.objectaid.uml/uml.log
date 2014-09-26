@@ -1,0 +1,3 @@
+2014-09-26 12:01:37.364 [Worker-1] INFO    com.objectaid.uml.license.LicenseManager initialize: found license Diagram Add-On 1.1.x - EVAL until 2014-10-05
+2014-09-26 12:01:38.762 [Worker-5] INFO    com.objectaid.uml.model.manage.DiagramManager getFactories: com.objectaid.uml.diagramFactories[ucls]: com.objectaid.uml.cls.model.ClassDiagramFactory@2ee43d9a
+2014-09-26 12:01:38.833 [Worker-5] INFO    com.objectaid.uml.model.manage.DiagramManager getFactories: com.objectaid.uml.diagramFactories[useq]: com.objectaid.uml.seq.model.SequenceDiagramFactory@223dad05

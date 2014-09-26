@@ -1,0 +1,13 @@
+package dao;
+
+
+
+import model.Entrada;
+
+public class ComentarioDao 
+		extends GenericDao<Entrada, Integer> 
+		implements IEntradaDao {
+
+	
+
+}

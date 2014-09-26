@@ -1,0 +1,13 @@
+package service;
+
+import java.util.List;
+
+import model.Entrada;
+
+public interface IEntradaService {
+	public void agregarEntrada(Entrada e);
+	public List<Entrada> obtenerEntradas();
+	public Entrada obtenerEntrada(Integer idEntrada);
+	public Entrada eliminarEntrada(Integer idEntrada);
+	
+}

@@ -1,0 +1,26 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<div id="enlaces">
+		<h1>About me</h1>
+	Hola chavales ....
+	
+	<a href="administrar.blog"> Administrar</a>
+	</br>
+	<form action="autenticar.blog" method="post">
+	<div>
+		<c:choose>
+			<c:when test="${empty sessionScope.usuario}">
+				<input type="text" name="correo" /> 	
+				<input type="text" name="clave" /> 	
+				<input type="submit" value="Entrar" />
+			</c:when>
+			<c:otherwise>
+			<span style="text-align: right;">
+				Bienvenido, ${sessionScope.usuario.correo }
+				<a href="cerrarSesion.blog">Cerrar sesión</a>	
+			</span>	
+			</c:otherwise>
+		</c:choose>
+	</div> 	
+	</form>
+</div>

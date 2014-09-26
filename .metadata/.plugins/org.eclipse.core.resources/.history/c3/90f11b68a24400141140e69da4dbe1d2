@@ -1,0 +1,36 @@
+package service;
+
+//import java.util.List;
+
+//import javax.persistence.Query;
+
+import model.Comentario;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.transaction.annotation.Transactional;
+
+import dao.IComentarioDao;
+import exception.AppDaoException;
+import exception.AppServiceException;
+
+
+@Transactional // Le dice a Spring que gestione las transacciones 
+public class ComentarioService implements IComentarioService {
+	@Autowired
+	private IComentarioDao comentarioDao;
+
+	@Override
+	public void agregarComentario(Comentario c) {
+		
+		
+		try {
+			
+			comentarioDao.agregar(c);
+			
+		} catch (AppDaoException e) {
+			throw new AppServiceException(e);
+		}
+	}
+
+
+}

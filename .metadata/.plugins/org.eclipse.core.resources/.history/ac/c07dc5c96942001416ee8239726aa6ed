@@ -1,0 +1,28 @@
+DROP TABLE usuario;
+CREATE TABLE usuario (
+	idUsuario INTEGER NOT NULL GENERATED ALWAYS AS IDENTITY (START WITH 1, INCREMENT BY 1),
+	correo VARCHAR(50),
+	clave VARCHAR(20),
+	fechaNacimiento DATE,
+	PRIMARY KEY(idUsuario)
+);
+
+DROP TABLE entradas;
+CREATE TABLE entradas (
+	idEntrada INTEGER NOT NULL GENERATED ALWAYS AS IDENTITY (START WITH 1, INCREMENT BY 1),
+	idUsuario INTEGER NOT NULL,
+	entrada VARCHAR(32670),
+	fechaCreacion DATE,
+	fechaActualizacion DATE,
+	PRIMARY KEY(idEntrada)
+);
+
+DROP TABLE comentarios;
+CREATE TABLE comentarios (
+	idComentario INTEGER NOT NULL GENERATED ALWAYS AS IDENTITY (START WITH 1, INCREMENT BY 1),
+	idUsuario INTEGER NOT NULL,
+	comentario VARCHAR(32670),
+	fechaCreacion DATE,
+	fechaActualizacion DATE,
+	PRIMARY KEY(idComentario)
+);
