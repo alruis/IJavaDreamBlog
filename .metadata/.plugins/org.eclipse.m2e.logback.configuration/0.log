@@ -3409,3 +3409,235 @@
 2014-09-26 14:06:09,559 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\main\resources
 2014-09-26 14:06:09,561 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2014-09-26 14:06:09,561 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\test\resources
+2014-09-26 15:49:19,861 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 15:49:19,862 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\main\resources
+2014-09-26 15:49:19,864 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 15:49:19,865 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\test\resources
+2014-09-26 15:49:35,804 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 15:49:35,805 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\main\resources
+2014-09-26 15:49:35,807 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 15:49:35,807 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\test\resources
+2014-09-26 15:50:02,346 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 15:50:02,347 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\main\resources
+2014-09-26 15:50:02,349 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 15:50:02,350 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\test\resources
+2014-09-26 15:50:58,614 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 15:50:58,615 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\main\resources
+2014-09-26 15:50:58,618 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 15:50:58,619 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\test\resources
+2014-09-26 15:51:29,421 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 15:51:29,422 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\main\resources
+2014-09-26 15:51:29,424 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 15:51:29,424 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\test\resources
+2014-09-26 15:53:29,779 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 15:53:29,782 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\main\resources
+2014-09-26 15:53:29,784 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 15:53:29,785 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\test\resources
+2014-09-26 15:53:54,881 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 15:53:54,882 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\main\resources
+2014-09-26 15:53:54,883 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 15:53:54,884 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\test\resources
+2014-09-26 15:54:07,062 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 15:54:07,063 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\main\resources
+2014-09-26 15:54:07,065 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 15:54:07,066 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\test\resources
+2014-09-26 15:57:03,525 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 15:57:03,526 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\main\resources
+2014-09-26 15:57:03,529 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 15:57:03,530 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\test\resources
+2014-09-26 15:57:45,972 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 15:57:45,973 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\main\resources
+2014-09-26 15:57:45,975 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 15:57:45,976 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\test\resources
+2014-09-26 15:58:13,496 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 15:58:13,497 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\main\resources
+2014-09-26 15:58:13,499 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 15:58:13,500 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\test\resources
+2014-09-26 15:58:45,232 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 15:58:45,233 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\main\resources
+2014-09-26 15:58:45,235 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 15:58:45,235 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\test\resources
+2014-09-26 15:59:01,961 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 15:59:01,962 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\main\resources
+2014-09-26 15:59:01,963 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 15:59:01,964 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\test\resources
+2014-09-26 15:59:19,018 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 15:59:19,019 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\main\resources
+2014-09-26 15:59:19,022 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 15:59:19,023 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\test\resources
+2014-09-26 15:59:51,497 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 15:59:51,498 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\main\resources
+2014-09-26 15:59:51,500 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 15:59:51,500 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\test\resources
+2014-09-26 16:00:07,364 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:00:07,364 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\main\resources
+2014-09-26 16:00:07,366 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:00:07,367 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\test\resources
+2014-09-26 16:00:13,282 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:00:13,282 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\main\resources
+2014-09-26 16:00:13,284 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:00:13,285 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\test\resources
+2014-09-26 16:00:31,884 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:00:31,885 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\main\resources
+2014-09-26 16:00:31,887 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:00:31,888 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\test\resources
+2014-09-26 16:01:44,068 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:01:44,069 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\main\resources
+2014-09-26 16:01:44,070 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:01:44,071 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\test\resources
+2014-09-26 16:02:03,574 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:02:03,575 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\main\resources
+2014-09-26 16:02:03,577 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:02:03,577 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\test\resources
+2014-09-26 16:02:23,946 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:02:23,947 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\main\resources
+2014-09-26 16:02:23,949 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:02:23,949 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\test\resources
+2014-09-26 16:02:43,978 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:02:43,979 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\main\resources
+2014-09-26 16:02:43,980 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:02:43,981 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\test\resources
+2014-09-26 16:03:02,425 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:03:02,426 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\main\resources
+2014-09-26 16:03:02,428 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:03:02,428 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\test\resources
+2014-09-26 16:03:30,468 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:03:30,469 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\main\resources
+2014-09-26 16:03:30,471 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:03:30,472 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\test\resources
+2014-09-26 16:03:40,666 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:03:40,666 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\main\resources
+2014-09-26 16:03:40,668 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:03:40,669 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\test\resources
+2014-09-26 16:03:47,263 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:03:47,264 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\main\resources
+2014-09-26 16:03:47,266 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:03:47,266 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\test\resources
+2014-09-26 16:04:29,620 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:04:29,621 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\main\resources
+2014-09-26 16:04:29,622 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:04:29,623 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\test\resources
+2014-09-26 16:04:44,508 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:04:44,509 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\main\resources
+2014-09-26 16:04:44,511 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:04:44,512 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\test\resources
+2014-09-26 16:05:06,819 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:05:06,820 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\main\resources
+2014-09-26 16:05:06,822 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:05:06,823 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\test\resources
+2014-09-26 16:05:18,947 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:05:18,949 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\main\resources
+2014-09-26 16:05:18,952 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:05:18,953 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\test\resources
+2014-09-26 16:05:36,263 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:05:36,264 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\main\resources
+2014-09-26 16:05:36,266 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:05:36,267 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\test\resources
+2014-09-26 16:05:47,374 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:05:47,374 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\main\resources
+2014-09-26 16:05:47,376 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:05:47,376 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\test\resources
+2014-09-26 16:06:55,960 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:06:55,961 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\main\resources
+2014-09-26 16:06:55,962 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:06:55,963 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\test\resources
+2014-09-26 16:07:24,818 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:07:24,819 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\main\resources
+2014-09-26 16:07:24,820 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:07:24,821 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\test\resources
+2014-09-26 16:07:43,649 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:07:43,650 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\main\resources
+2014-09-26 16:07:43,652 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:07:43,653 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\test\resources
+2014-09-26 16:08:52,545 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:08:52,546 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\main\resources
+2014-09-26 16:08:52,548 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:08:52,548 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\test\resources
+2014-09-26 16:09:38,823 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:09:38,824 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\main\resources
+2014-09-26 16:09:38,843 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:09:38,844 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\test\resources
+2014-09-26 16:09:50,434 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:09:50,435 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\main\resources
+2014-09-26 16:09:50,437 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:09:50,438 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\test\resources
+2014-09-26 16:10:22,854 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:10:22,855 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\main\resources
+2014-09-26 16:10:22,857 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:10:22,857 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\test\resources
+2014-09-26 16:10:37,681 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:10:37,682 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\main\resources
+2014-09-26 16:10:37,684 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:10:37,684 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\test\resources
+2014-09-26 16:10:55,626 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:10:55,627 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\main\resources
+2014-09-26 16:10:55,628 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:10:55,629 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\test\resources
+2014-09-26 16:11:06,203 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:11:06,204 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\main\resources
+2014-09-26 16:11:06,206 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:11:06,207 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\test\resources
+2014-09-26 16:11:38,986 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:11:38,987 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\main\resources
+2014-09-26 16:11:38,989 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:11:38,990 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\test\resources
+2014-09-26 16:12:23,361 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:12:23,362 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\main\resources
+2014-09-26 16:12:23,366 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:12:23,367 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\test\resources
+2014-09-26 16:12:59,111 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:12:59,112 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\main\resources
+2014-09-26 16:12:59,114 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:12:59,115 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\test\resources
+2014-09-26 16:15:30,740 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:15:30,741 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\main\resources
+2014-09-26 16:15:30,743 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:15:30,743 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\test\resources
+2014-09-26 16:16:39,087 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:16:39,088 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\main\resources
+2014-09-26 16:16:39,089 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:16:39,090 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\test\resources
+2014-09-26 16:17:14,802 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:17:14,803 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\main\resources
+2014-09-26 16:17:14,804 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:17:14,805 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\test\resources
+2014-09-26 16:17:28,700 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:17:28,701 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\main\resources
+2014-09-26 16:17:28,703 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:17:28,703 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\test\resources
+2014-09-26 16:18:55,722 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:18:55,723 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\main\resources
+2014-09-26 16:18:55,725 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:18:55,725 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\test\resources
+2014-09-26 16:20:31,837 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:20:31,839 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\main\resources
+2014-09-26 16:20:31,841 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:20:31,841 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\test\resources
+2014-09-26 16:21:03,107 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:21:03,108 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\main\resources
+2014-09-26 16:21:03,126 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:21:03,126 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\test\resources
+2014-09-26 16:22:13,393 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:22:13,416 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\main\resources
+2014-09-26 16:22:13,418 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:22:13,419 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\test\resources
+2014-09-26 16:22:21,209 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:22:21,210 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\main\resources
+2014-09-26 16:22:21,219 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:22:21,219 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\test\resources
+2014-09-26 16:23:30,340 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:23:30,341 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\main\resources
+2014-09-26 16:23:30,343 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:23:30,344 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\test\resources
+2014-09-26 16:24:36,723 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:24:36,724 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\main\resources
+2014-09-26 16:24:36,726 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:24:36,727 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\test\resources
+2014-09-26 16:25:03,338 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:25:03,338 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\main\resources
+2014-09-26 16:25:03,341 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:25:03,341 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\test\resources
+2014-09-26 16:25:42,696 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:25:42,697 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\main\resources
+2014-09-26 16:25:42,699 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-09-26 16:25:42,699 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\GD\CURSO JAVA MADRID\IJavaDreamBlog\IJavaBlog\src\test\resources

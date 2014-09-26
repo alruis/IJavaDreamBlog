@@ -60,10 +60,12 @@
 		
 
 		<tbody id="tbodyEntradas" >
-		<thead>
-		<tr><td>Id Entrada</td>
+		<thead id="cabeceraEntradas" >
+		<tr class="cabeceras">
+		<td>Id Entrada</td>
 		<td>Cabecera</td>
-		<td>Usuario</td>
+		<td>Entrada</td>
+		<td>Usuario autor</td>
 		<td>Mostrar</td>
 		<td>Eliminar</td></tr>
 		
@@ -82,11 +84,10 @@
 						
 						<td><%= ent.getIdEntrada() %></td>
 						<td><%= ent.getCabeceraEntrada() %></td>
-						<td>Creada por el usuario: <%= ent.getIdusuario() %></td>
-						<td><a href="mostrar.blog?idEntrada=<%= ent.getIdEntrada() %>"> Mostrar	</a>
-						</td>
-						<td><a 
-								href="eliminar.blog?idEntrada=<%= ent.getIdEntrada() %>" 
+						<td><%= ent.getEntrada() %></td>
+						<td><%= ent.getIdusuario() %></td>
+						<td><a href="mostrar.blog?idEntrada=<%= ent.getIdEntrada() %>"> Mostrar	</a></td>
+						<td><a href="eliminar.blog?idEntrada=<%= ent.getIdEntrada() %>" 
 								onclick="return confirmar()" >Eliminar
 							</a>
 						</td>
@@ -102,23 +103,23 @@
 	
 	<!--   <h1>Crear entrada</h1> -->
 	<form:form action="agregarEntrada.blog" commandName="entradaForm" method="post">
-		<table>
+		<table style="width: 98%;border-top: thin;border-bottom: thin;border-left: thin;border-right: thin;" border=1>
 		<tr>
 				<td>ID:</td>
-				<td><form:input path="idEntrada" readonly="true" /> </td> 
+				<td><form:input path="idEntrada" readonly="true" cssStyle="width:100%"/> </td> 
 			</tr>	
 			<tr>
 				<td>Cabecera:</td>
-				<td><form:input path="cabeceraEntrada"/> </td> 
+				<td><form:input path="cabeceraEntrada" cssStyle="width:100%"/> </td> 
 			</tr>		
 			<tr>
 				<td>Entrada:</td>
-				<td><form:textarea  path="entrada" /> </td> 
+				<td><form:textarea  path="entrada"  cssStyle="width:100%"/> </td> 
 			</tr>		
 				
 			<tr>
 				<td>Fecha de creación:</td>
-				<td><form:input path="fechaCreacion"/> </td> 
+				<td><form:input path="fechaCreacion" cssStyle="width:100%"/> </td> 
 			</tr>		
 			<tr>
 				<td colspan="2">

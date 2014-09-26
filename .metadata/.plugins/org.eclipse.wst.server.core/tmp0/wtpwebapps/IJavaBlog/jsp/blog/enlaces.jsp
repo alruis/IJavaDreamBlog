@@ -4,19 +4,21 @@
 <div>
 	<h1>About me</h1>	Hola chavales ....
 </div>
+	</br>
+	</br>
 	
-	<div>
-	<a href="administrar.blog"> Administrar</a>
-	</div>
+	</br>
 	</br>
 	<div>
 	<form action="autenticar.blog" method="post">
 	
 		<c:choose>
 			<c:when test="${empty sessionScope.usuario}">
-				<input type="text" name="correo" /> 	
-				<input type="text" name="clave" /> 	
-				<input type="submit" value="Entrar" />
+				<table>
+				<tr><td>Usuario:</td><td><input type="text" name="correo"  /> 	</td></tr>
+				<tr><td>Clave:</td><td> <input type="text" name="clave" /> 	</td></tr>
+				<tr><td colspan=2><input type="submit" value="Entrar" />	</td></tr>
+				</table>
 			</c:when>
 			<c:otherwise>
 			<span style="text-align: right;">

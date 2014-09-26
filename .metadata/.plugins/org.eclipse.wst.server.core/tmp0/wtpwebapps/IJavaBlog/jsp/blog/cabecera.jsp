@@ -7,6 +7,6 @@
 	
 <div id="cabecera" >
 	
-	<div onclick="javascript:location.href='index.blog'"><h1>Blog de Java</h1></div>
+	<div onclick="javascript:location.href='index.blog'"><h1>I Java dream ....</h1></div>
 
 </div>

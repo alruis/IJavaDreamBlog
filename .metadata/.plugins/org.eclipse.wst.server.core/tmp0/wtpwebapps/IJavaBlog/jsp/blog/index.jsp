@@ -40,7 +40,7 @@
 						int num = 1;
 						for (Entrada ent : entradas) {
 					%>
-							<tr>
+							<tr class="cabeceras">
 								<td><%= ent.getIdEntrada() %></td>
 								<td><%= ent.getCabeceraEntrada() %></td>
 								<td>Creada por el usuario: <%= ent.getIdusuario() %></td>
@@ -49,9 +49,9 @@
 							<tr><td class="entradas" colspan="3"><%= ent.getEntrada() %>  </td></tr>
 							<tr>
 								<td><%= ent.getFechacreacion() %></td>
-								<td><a href="comentarios.blog?idEntrada=<%= ent.getIdEntrada() %>" >Comentarios: <%= ent.getnComentarios() %></a>
+								<td colspan=2 style="text-align: right;border: thin;" ><a href="comentarios.blog?idEntrada=<%= ent.getIdEntrada() %>" >Comentarios: <%= ent.getnComentarios() %></a>
 								 <input type="button" value="Añadir comentario" onclick="mostrar('nuevoComentario_<%= ent.getIdEntrada() %>')"/>	 </td>
-								<td>Tags</td>
+							
 								
 							</tr>
 							<tr ><td  colspan="3">
@@ -81,7 +81,7 @@
 							
 							</div>
 							</td></tr>
-							<tr ><td  colspan="3">></td></tr>
+							<tr ><td  colspan="3"><hr></td></tr>
 					<%
 						}
 					}

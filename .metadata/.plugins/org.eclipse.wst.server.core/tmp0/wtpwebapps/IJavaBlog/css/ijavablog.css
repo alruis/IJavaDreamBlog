@@ -24,27 +24,42 @@ html{
      height:100px;
      float:left;
      color:white;
+     padding-left:15px;
+    
+   
 	}
+	
+	tr.cabeceras{
+	 background:  url("../img/FondoCabecera1.png");
+	 color:white;
+    background-color:blue;
+    
+   
+	}
+	
 	
 	div.navegacion{
 	background-color:#eeeeee;
     width:20%;
     float:left;
-    <!--Position:Absolute; 
-    Height:100%-->
+    overflow:hidden;margin:0; padding:0;  position:relative; min-height:700px;
+
 	}
 		
 	div.entradas{
 	width:60%;
     float:left;
+
+
 	}
     
 	div.enlaces{
  	background-color:#eeeeee;
     width:20%;
     float:left;
-    <!--Position:Absolute; 
-    Height:100%-->
+
+     overflow:hidden;margin:0; padding:0;  position:relative; min-height:700px;
+     
 	}
 	
     	
