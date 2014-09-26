@@ -33,12 +33,14 @@ html{
 	 background:  url("../img/FondoCabecera1.png");
 	 color:white;
     background-color:blue;
+ 
     
    
 	}
 	
 	
 	div.navegacion{
+	
 	background-color:#eeeeee;
     width:20%;
     float:left;
@@ -57,7 +59,7 @@ html{
  	background-color:#eeeeee;
     width:20%;
     float:left;
-
+text-align: center;
      overflow:hidden;margin:0; padding:0;  position:relative; min-height:700px;
      
 	}
@@ -69,5 +71,6 @@ html{
       height:100px;
     color:white;
         float:left;
+        text-align: right;
 	}
 	

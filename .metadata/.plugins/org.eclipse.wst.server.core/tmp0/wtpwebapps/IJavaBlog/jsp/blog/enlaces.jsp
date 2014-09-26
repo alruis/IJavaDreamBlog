@@ -2,7 +2,10 @@
     pageEncoding="UTF-8"%>
 <div id="enlaces">
 <div>
-	<h1>About me</h1>	Hola chavales ....
+<br><br><br><br>
+	<font size="5" face="bold"> About me </font>
+			<br><br><br><br> 
+			Hola chavales ....
 </div>
 	</br>
 	</br>

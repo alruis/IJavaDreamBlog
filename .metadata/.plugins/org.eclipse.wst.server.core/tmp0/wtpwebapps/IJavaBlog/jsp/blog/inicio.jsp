@@ -100,10 +100,10 @@
 		</tbody>
 	</table>
 		
-	
+	<div style="height: 20px"></div>
 	<!--   <h1>Crear entrada</h1> -->
 	<form:form action="agregarEntrada.blog" commandName="entradaForm" method="post">
-		<table style="width: 98%;border-top: thin;border-bottom: thin;border-left: thin;border-right: thin;" border=1>
+		<table style="width: 98%;" >
 		<tr>
 				<td>ID:</td>
 				<td><form:input path="idEntrada" readonly="true" cssStyle="width:100%"/> </td> 

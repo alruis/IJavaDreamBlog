@@ -55,7 +55,11 @@
 	<%
 	Entrada ent= (Entrada) request.getAttribute("entrada");
 	 %>
-		<table id="entrada">
+
+<table style="width: 100%">	<tr class="cabeceras"><td>Entrada</td></tr>	</table>
+
+
+		<table id="entrada" border="1">
 		<tr>
 				<td>ID:</td>
 				<td><%=ent.getIdEntrada() %></td> 
@@ -73,12 +77,11 @@
 				<td>Fecha de creación:</td>
 				<td><%=ent.getFechacreacion() %> </td> 
 			</tr>		
-			<tr>
-				<td colspan="2">
-				</td>
-			</tr>		
+				
 		</table>	
-		<table id="tablaComentariosEntrada" border="1">
+		
+	<table style="width: 100%">	<tr class="cabeceras"><td>Comentarios</td></tr>	</table>
+		<table id="tablaComentariosEntrada" border="1" style="width: 100%">
 			
 				<tr>
 					<td>Id comentario</td>
